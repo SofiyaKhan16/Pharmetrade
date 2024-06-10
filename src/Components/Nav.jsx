@@ -253,7 +253,7 @@ function Nav({ topDivRef }) {
         </ul>
         {/* down div elemenet  */}
         <div
-          className="flex flex-row w-16  justify-between md:w-screen   xl:gap-20 2xl:gap-24 lg:w-screen md:gap-20
+          className="flex flex-row w-16  md:w-screen   xl:gap-20 2xl:gap-24 lg:w-screen md:gap-20
          xl:w-screen items-center h-fit bg-white text-black border-2 border-grey-500 shadow-lg  lg:px-0 lg:h-fit"
         >
           <div
@@ -271,7 +271,7 @@ function Nav({ topDivRef }) {
               <input
                 type="text"
                 placeholder="Search for products..."
-                className="w-full md:w-80 lg:w-96 xl:w-full   py-2 px-4 border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full md:w-72 lg:w-80 xl:w-full   py-2 px-4 border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
               />
               <button className="absolute right-0 flex items-center justify-center h-full px-4 py-2 bg-blue-500 text-white rounded-r-md focus:outline-none focus:ring-2 focus:ring-blue-500">
                 <svg
