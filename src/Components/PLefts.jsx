@@ -63,6 +63,9 @@ export default PLefts;
 
 
 
+
+
+
 // import React from "react";
 // import Buy from "../assets/Buy.png";
 // import bid from "../assets/Bid.png";
