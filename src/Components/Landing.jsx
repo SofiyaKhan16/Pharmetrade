@@ -24,8 +24,8 @@ function Landing({ topMargin }) {
             marginTop: `${topMargin}px`,
           }}
         >
-          <p className="text-left pt-20 ml-36 text-4xl text-white w-fit">
-            <div className="mb-10 bounce-in-top overflow-hidden">
+          <p className="text-left pt-10 ml-36 text-4xl text-white w-fit">
+            <div className=" bounce-in-top  overflow-hidden">
               <span className="text-6xl mb-20 text-white  font-extralight">
                 Your{" "}
               </span>

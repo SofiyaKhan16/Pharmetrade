@@ -24,6 +24,8 @@ const ProductDetails = () => {
   //   console.log("Clicked to close Items");
   //   setPop(false);
   // };
+
+  
   return (
     <div className="w-full h-full flex justify-center mb-20">
       <div className="h-full w-[90%] ">

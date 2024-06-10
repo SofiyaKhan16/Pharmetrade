@@ -10,20 +10,20 @@ function Footers() {
       >
         {/* About Us Section */}
         <div className="flex flex-col w-fit mr-18">
-          <p className="text-sm font-semibold mb-4">About Us</p>
-          <p className="text-md font-thin w-fit ">
+          <p className="text-xl font-semibold mb-4">About Us</p>
+          <p className="text-lg font-thin w-fit ">
             PharmEtrade is a secure online marketplace for independent
             pharmacies to buy, sell,<br></br>
             and bid on overstock and short date prescription drugs. Our
             easy-to-use platform was<br></br>
             built by pharmacists with you in mind. <br></br>
           </p>
-          <p className="text-md mt-4 font-thin">
+          <p className="text-lg mt-4 font-thin">
             With pharmEtrade, take control of your inventory and put profits
             back into your<br></br>
             pharmacy.
           </p>
-          <p className="mt-4 text-md w-fit font-thin">
+          <p className="mt-4 text-lg w-fit font-thin">
             Ready to learn more? Schedule a{" "}
             <a href="#" className="text-white font-medium underline">
               demo
@@ -34,14 +34,14 @@ function Footers() {
             </a>{" "}
             today!!
           </p>
-          <p className="mt-4 text-md w-fit font-thin">*Conditions Apply</p>
+          <p className="mt-4 text-lg w-fit font-thin">*Conditions Apply</p>
         </div>
 
         {/* Quick Links and Support & Service Sections */}
         <div className="flex flex-col ">
           <div className="flex flex-row  gap-20 items-center">
-            <div className="mr-8 text-md">
-              <p className="text-md mb-4">Quick Links</p>
+            <div className="mr-8 text-lg">
+              <p className="text-lg mb-4">Quick Links</p>
               <ul className=" list-disc list-inside">
                 <li>
                   <a href="#" className="underline">
@@ -65,8 +65,8 @@ function Footers() {
                 </li>
               </ul>
             </div>
-            <div className="mr-10 text-md">
-              <p className="text-md mb-4">Support & Service</p>
+            <div className="mr-10 text-lg">
+              <p className="text-lg mb-4">Support & Service</p>
               <ul className="list-disc list-inside ">
                 <li>
                   <a href="#" className="underline">
@@ -92,7 +92,7 @@ function Footers() {
             </div>
           </div>
           <div className=" flex flex-col mt-14 relative">
-            <h2 className="text-md mt-3">Subscribe </h2>
+            <h2 className="text-lg mt-3">Subscribe </h2>
             <input
               type="text"
               className="pl-7 mt-2 h-10 rounded-lg text-black"
