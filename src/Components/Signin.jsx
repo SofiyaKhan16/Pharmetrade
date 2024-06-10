@@ -222,7 +222,7 @@ const Signin = () => {
                 <div>
                   <label style={{marginRight:'10px',marginBottom:'80px',position:'absolute',marginLeft:'96px',textDecorationLine:'none'}}> 
                  
-                  <Link to='/Changepassword' style={{textDecoration:'none',color:"blue"}}>change Password </Link> 
+                  <Link to='/Changepassword' style={{textDecoration:'none',color:"blue"}}>Change Password </Link> 
                   </label>
                 </div> 
             
