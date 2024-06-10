@@ -438,7 +438,10 @@ function Items({ onClose, topMargin, addCart }) {
       ratesupn: "$45.00",
     };
     addCart(prolist);
+    navigate("/cart");
   }
+ 
+
 
   const components = {
     div1: (
@@ -510,7 +513,7 @@ function Items({ onClose, topMargin, addCart }) {
             {/* <h3 className="text-3xl font-semibold text-box">$9.99</h3> */}
             <h3 className="text-orange-400 font-light text-lg mb-4">
               UPN Member Price{" "}
-              <span className="text-orange-400 font-semibold">$0.00</span>
+              <span className="text-orange-400 font-semibold">$25.00</span>
             </h3>
           </div>
 
